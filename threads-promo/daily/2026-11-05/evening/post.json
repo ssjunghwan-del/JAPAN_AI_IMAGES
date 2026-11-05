@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-05",
+  "slot": "evening",
+  "game": "jewel",
+  "caption": "보드게임 좋아하면 한 번 봐줘. ‘더 주얼’이라는 보석 모으는 보드게임을 한 달 동안 만들었거든. 아직 사람들한테 많이 알려지진 않았는데, 웹에서 설치 없이 바로 할 수 있어.\n\nAI랑도 대전할 수 있어서 혼자 해도 크게 심심하지 않고, 규칙도 복잡하지 않은 편이야. 부담 없이 한 판 해보고 싶은 마음 들면 링크 보내줄게. 어떤 반응 나올지 궁금하다.",
+  "first_reply": "게임은 여기서 할 수 있어!\nhttps://arcade-web-production.ssjunghwan.workers.dev/index.html",
+  "video_url": "https://cdn.jsdelivr.net/gh/ssjunghwan-del/JAPAN_AI_IMAGES@c2b6f0dcd5f9c899ca37ab84a3355b9a34ef7240/threads-promo/daily/2026-11-05/evening/clip.mp4",
+  "video_sha256": "c867be87bc7042b4493cce87ca597e898958c7dbe0e11facc47ced59823750f4",
+  "verified": true
+}
