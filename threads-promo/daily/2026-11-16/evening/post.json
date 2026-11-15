@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-16",
+  "slot": "evening",
+  "game": "onecard",
+  "caption": "빠른 원카드 게임 만들어봄\nAI 난이도 조절 중인데 지금 수준이 너무 쉽거나 너무 센지 한 판만 해보고 훈수 좀 둬줄 사람?\n바로 웹에서 됨.",
+  "first_reply": "게임은 여기서 할 수 있어!\nhttps://arcade-web-production.ssjunghwan.workers.dev/index.html",
+  "video_url": "https://cdn.jsdelivr.net/gh/ssjunghwan-del/JAPAN_AI_IMAGES@b946de3f876b3f1a259aaba76c33970d5ffcfba6/threads-promo/daily/2026-11-16/evening/clip.mp4",
+  "video_sha256": "2a81b51052d3dd2d48cf325b9089b77dc7e186cd37337714417091592a37bf72",
+  "verified": true
+}
